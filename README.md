@@ -1,5 +1,3 @@
-### Coding Challenge 
-
 
 **Here are a couple notes for this project: **
 
